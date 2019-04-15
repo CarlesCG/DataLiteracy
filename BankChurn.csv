@@ -1,0 +1,15 @@
+Customer,Switching_Cost,Service_Quality,Customer_Satisfaction,Income,Age,Cluster_Pred
+1,High,High,Average,24000,20,2
+2,High,High,Low,10000,23,2
+3,Average,High,High,26000,29,2
+4,Low,Average,Low,36000,23,1
+5,Low,Low,Low,64000,32,3
+6,Low,Low,Average,73000,30,3
+7,Average,Low,Average,59000,40,3
+8,High,Average,Low,71000,46,3
+9,High,Low,High,45000,54,1
+10,Low,Average,High,44000,63,1
+11,High,Average,Average,32000,68,1
+12,Average,Average,Low,45000,72,1
+13,Low,High,High,49000,80,1
+14,Low,Average,Low,73000,73,3
